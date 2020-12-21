@@ -1,3 +1,10 @@
+## Server web 
+
+Aplicación en node para desplegar unn server web con node
+
+```
+npm install
+```
 
 Al colocar esta configuración en el archivo package.json
 ```
