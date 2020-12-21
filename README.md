@@ -21,4 +21,5 @@ npm start
 npm run nodemon
 ```
 
+npm start  --> Con este comando se permite iniciar servidor desde heroku
 npm run nodemon --> es un comando especial por tal motivo es necesario escribir la palabra run 
