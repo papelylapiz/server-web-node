@@ -12,8 +12,8 @@ Al colocar esta configuración en el archivo package.json
         "start": "node server",
         "nodemon": "nodemon server -e js,hbs,css",
 ```
-Se puede ejecutar desde la terminal:
-´´´
+Se puede ejecutar desde la terminal
+```
 npm start  
 npm run nodemon
 ´´´
